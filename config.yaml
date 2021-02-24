@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:hep-th OR cat:hep-lat'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        sign problem: 2
+        complex Langevin: 1
+        Lefschetz thimble: 1
+        tensor renormalization group: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
